@@ -1,0 +1,26 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Segredos e configuração local
+.env
+noir_config.json
+
+# Conversas salvas com /salvar
+conversas_noir/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
